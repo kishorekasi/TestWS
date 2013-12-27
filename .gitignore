@@ -1,0 +1,8 @@
+#ignore class files
+*.class
+*.DS_Store
+testws.log
+
+#ignore directories
+target/*
+
